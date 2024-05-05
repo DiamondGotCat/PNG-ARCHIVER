@@ -1,4 +1,4 @@
-# PRC
+# PRCHIVE
 PRC is a simple image compression script. ( Compatible with PNG(RGBA) )
 
 ## Operating environment
