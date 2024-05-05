@@ -1,5 +1,5 @@
-# PRCHIVE
-PRCHIVE is a simple image compression script. ( Compatible with PNG(RGBA) )
+# PNG ARCHIVER
+PNG ARCHIVER is a simple image compression script. ( Compatible with PNG(RGBA) )
 
 ## Operating environment
 ### Python
@@ -10,4 +10,4 @@ PRCHIVE is a simple image compression script. ( Compatible with PNG(RGBA) )
 
 ## License
 **MIT License**
-( github.com/DiamondGotCat/PRCHIVE )
+( github.com/DiamondGotCat/PNG-ARCHIVER )
