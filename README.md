@@ -6,4 +6,5 @@ PRC is a simple image compression script. ( Compatible with PNG(RGBA) )
 ### wave, json, PIL module
 
 ## License
-MIT License
+**MIT License**
+( github.com/DiamondGotCat/PRC )
