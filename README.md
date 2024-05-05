@@ -5,6 +5,9 @@ PRCHIVE is a simple image compression script. ( Compatible with PNG(RGBA) )
 ### Python
 ### wave, json, PIL module
 
+## File extension
+### .prc
+
 ## License
 **MIT License**
 ( github.com/DiamondGotCat/PRCHIVE )
