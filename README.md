@@ -5,8 +5,8 @@ PNG ARCHIVER is a simple image compression script. ( Compatible with PNG(RGBA) )
 ### Python
 ### wave, json, PIL module
 
-## File extension
-### .prc
+## File
+### json
 
 ## License
 **MIT License**
