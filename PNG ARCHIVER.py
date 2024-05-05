@@ -58,7 +58,7 @@ def decode(wav_path, encoded_dict, output_image_path):
 # 使用例
 if __name__ == "__main__":
     # エンコード
-    encoded_dict = encode("/Users/techcat/Pictures/GitGUI.png", "output_sound.prc")
+    encoded_dict = encode(input("path: "), "output_sound.prc")
     with open("encoded_dict.json", "w") as json_file:
         json.dump(encoded_dict, json_file)
 
