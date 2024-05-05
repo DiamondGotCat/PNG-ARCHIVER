@@ -57,12 +57,18 @@ def decode(wav_path, encoded_dict, output_image_path):
 
 # 使用例
 if __name__ == "__main__":
-    # エンコード
-    encoded_dict = encode(input("path: "), "output_sound.prc")
-    with open("encoded_dict.json", "w") as json_file:
-        json.dump(encoded_dict, json_file)
 
-    # デコード
-    with open("encoded_dict.json", "r") as json_file:
-        encoded_dict = json.load(json_file)
-    decode("output_sound.prc", encoded_dict, "decoded_image.png")
+    mode = input("mode[encode|decode]: ")
+
+    if mode == "encode":
+        # エンコード
+        encoded_dict = encode(input("path of png: "), "output_sound.prc")
+        with open("encoded_dict.json", "w") as json_file:
+            json.dump(encoded_dict, json_file)
+
+    if mode == "decode":
+
+        # デコード
+        with open(input("path of json: "), "r") as json_file:
+            encoded_dict = json.load(json_file)
+        decode("output_sound.prc", encoded_dict, "decoded_image.png")
