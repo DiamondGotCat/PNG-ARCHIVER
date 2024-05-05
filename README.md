@@ -1,5 +1,5 @@
 # PRCHIVE
-PRC is a simple image compression script. ( Compatible with PNG(RGBA) )
+PRCHIVE is a simple image compression script. ( Compatible with PNG(RGBA) )
 
 ## Operating environment
 ### Python
