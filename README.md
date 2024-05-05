@@ -7,4 +7,4 @@ PRC is a simple image compression script. ( Compatible with PNG(RGBA) )
 
 ## License
 **MIT License**
-( github.com/DiamondGotCat/PRC )
+( github.com/DiamondGotCat/PRCHIVE )
